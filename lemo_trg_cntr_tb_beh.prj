@@ -1,0 +1,2 @@
+vhdl work "vhdl/lemo_trg_cntr.vhd"
+vhdl work "vhdl/lemo_trg_cntr_tb.vhd"
